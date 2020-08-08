@@ -1,0 +1,20 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Blake",
+  "classifications": ["Blake", "Api", "Web", "C#8"],
+  "identity": "Blake.FeatureFolder.Feature",
+  "name": "Blakes Templates: Create a Feature Folder with sample list and detail snippets",
+  "shortName": "featurefolder",
+  "tags": {
+    "language": "C#",
+    "type": "item"
+  },
+  "sourceName": "FeatureName",
+  "symbols": {
+    "namespace": {
+      "description": "namespace for the generated code",
+      "replaces": "Base.FeatureFolder",
+      "type": "parameter"
+    }
+  }
+}

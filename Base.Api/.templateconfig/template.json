@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Blake",
+  "classifications": ["Blake", "Web", "Api", "C#8", "dotnetcore"],
+  "identity": "Base.Api",
+  "name": "Blakes Templates: Web Api Template",
+  "shortName": "baseapi",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "Base.Api",
+  "preferNameDirectory": true
+}
