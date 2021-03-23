@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using Microsoft.OpenApi.Models;
 using Swashbuckle.AspNetCore.SwaggerGen;
 
-namespace Base.Api.Infrastructure.Swagger
+namespace Base.Api.Infrastructure.Swashbuckle
 {
     public class HealthCheckEndpointDocumentFilter:IDocumentFilter
     {

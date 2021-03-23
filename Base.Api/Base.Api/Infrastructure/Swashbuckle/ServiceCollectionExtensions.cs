@@ -4,7 +4,7 @@ using System.Reflection;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.OpenApi.Models;
 
-namespace Base.Api.Infrastructure.Swagger
+namespace Base.Api.Infrastructure.Swashbuckle
 {
     public static class ServiceCollectionExtensions
     {

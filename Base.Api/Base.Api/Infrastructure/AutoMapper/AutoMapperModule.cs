@@ -5,7 +5,7 @@ using af = Autofac.Module;
 using AutoMapper;
 using Autofac;
 
-namespace Property.Api.Infrastructure.AutoMapper
+namespace Base.Api.Infrastructure.AutoMapper
 {
     public class AutoMapperModule:af
     {
